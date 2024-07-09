@@ -1,0 +1,11 @@
+DEVELOPMENT=true
+
+# COIN 
+API_KEY=your-api-key-coin
+
+# MERCHANT 
+MERCHANT_API_KEY=your-api-key-merchant
+MERCHANT_PRIVATE_KEY=your-merchant-private-key
+
+# ENDPOINT 
+BASE_URL=https://adelaide.chainshub.id/api
